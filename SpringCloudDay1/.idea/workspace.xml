@@ -2,51 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f429620-9532-433e-bebe-2d0ffc0d8651" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/src/main/java/com/tidc/springcloud/service/Impl/DeptClientServiceFallbackFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-hystrix-8001/microservicecloudproviderdepthystrix8001.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-hystrix-8001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/tidc/springcloud/DeptProvider8001_Hystrix_App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/tidc/springcloud/controller/DeptController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/tidc/springcloud/dao/DeptDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/tidc/springcloud/service/DeptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/tidc/springcloud/service/Impl/DeptServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-hystrix-8001/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-hystrix-8001/src/main/resources/mybatis/mapper/DeptDaoMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-hystrix-8001/src/main/resources/mybatis/mybatis.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-hystrix-dashboard/microservicecloudproviderdepthystrixdashboard.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-hystrix-dashboard/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-hystrix-dashboard/src/main/java/com/tidc/springcloud/DeptConsumer_DashBoard_App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-hystrix-dashboard/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-zuul-gateway-9527/microservicecloudzuulgateway9527.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-zuul-gateway-9527/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-zuul-gateway-9527/src/main/java/com/tidc/springcloud/Zuul_9527_StartSpringCloudApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-zuul-gateway-9527/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/src/main/java/com/tidc/springcloud/service/DeptClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/src/main/java/com/tidc/springcloud/service/DeptClientService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/target/classes/com/tidc/springcloud/service/DeptClientService.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/target/classes/com/tidc/springcloud/service/DeptClientService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/target/microservicecloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/target/microservicecloud.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/target/classes/META-INF/microservicecloud-consumer-dept-80.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/target/microservicecloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/target/microservicecloud.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-feign/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-feign/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-feign/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-feign/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-feign/target/classes/com/tidc/springcloud/DeptConsumer80_Feign_App.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-feign/target/classes/com/tidc/springcloud/DeptConsumer80_Feign_App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7001/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7001/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7001/target/microservicecloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7001/target/microservicecloud.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7002/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7002/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7002/target/microservicecloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7002/target/microservicecloud.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7003/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7003/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7003/target/microservicecloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7003/target/microservicecloud.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/target/microservicecloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/target/microservicecloud.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8002/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8002/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8003/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8003/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8003/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8003/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8003/target/microservicecloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8003/target/microservicecloud.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservicecloud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -140,7 +102,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.DeptProvider8001_Hystrix_App">
+  <component name="RunManager" selected="Spring Boot.Zuul_9527_StartSpringCloudApp">
     <configuration name="DeptConsumer80_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="microservicecloudconsumerdept80" />
       <extension name="coverage">
@@ -307,8 +269,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zuul_9527_StartSpringCloudApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="microservicecloudzuulgateway9527" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tidc.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tidc.springcloud.Zuul_9527_StartSpringCloudApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Spring Boot.DeptConsumer_DashBoard_App" />
+      <item itemvalue="Spring Boot.Zuul_9527_StartSpringCloudApp" />
       <item itemvalue="Spring Boot.DeptConsumer80_Feign_App" />
       <item itemvalue="Spring Boot.DeptProvider8001_Hystrix_App" />
       <item itemvalue="Spring Boot.DeptProvider8002_App" />
@@ -333,7 +309,7 @@
       <workItem from="1575778667908" duration="7678000" />
       <workItem from="1575800379587" duration="6725000" />
       <workItem from="1575865810862" duration="11826000" />
-      <workItem from="1575950538387" duration="9385000" />
+      <workItem from="1575950538387" duration="12223000" />
     </task>
     <task id="LOCAL-00001" summary="SpringCloud整合Eureka(服务注册与发现)">
       <created>1575811971066</created>
@@ -370,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575953600371</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="4、SpringCloud整合Hystrix断路器（熔断、降级机制）">
+      <created>1575960212386</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575960212386</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -394,6 +377,7 @@
     <MESSAGE value="SpringCloud整合Eureka(服务注册与发现)" />
     <MESSAGE value="1、SpringCloud整合Eureka(服务注册与发现)&#10;2、SpringCloud整合Ribbon（负载均衡）" />
     <MESSAGE value="3、SpringCloud整合Feign（负载均衡）" />
-    <option name="LAST_COMMIT_MESSAGE" value="3、SpringCloud整合Feign（负载均衡）" />
+    <MESSAGE value="4、SpringCloud整合Hystrix断路器（熔断、降级机制）" />
+    <option name="LAST_COMMIT_MESSAGE" value="4、SpringCloud整合Hystrix断路器（熔断、降级机制）" />
   </component>
 </project>
