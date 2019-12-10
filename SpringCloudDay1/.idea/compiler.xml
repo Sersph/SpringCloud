@@ -11,10 +11,11 @@
         <module name="microservicecloudeureka7002" />
         <module name="microservicecloudeureka7001" />
         <module name="microservicecloud-provider-dept-8001" />
+        <module name="microservicecloud-api" />
         <module name="microservicecloud-consumer-dept-80" />
         <module name="microservicecloud-provider-dept-8003" />
+        <module name="microservicecloudconsumerdeptfeign" />
         <module name="microservicecloudconsumerdept80" />
-        <module name="microservicecloud-api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
