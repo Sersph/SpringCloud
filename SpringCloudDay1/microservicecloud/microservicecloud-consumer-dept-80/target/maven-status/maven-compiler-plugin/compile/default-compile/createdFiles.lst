@@ -1,3 +1,5 @@
+com\tidc\myrule\RandomRule_ZY.class
+com\tidc\myrule\MySelfRule.class
+com\tidc\springcloud\configbeans\ConfigBean.class
 com\tidc\springcloud\controller\DeptController_Consumer.class
-com\tidc\springcloud\cfgbeans\ConfigBean.class
 com\tidc\springcloud\DeptConsumer80_App.class

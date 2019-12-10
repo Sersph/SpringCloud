@@ -33,5 +33,5 @@ eureka:
 info:
   app.name: tidc-microservicecloud
   company.name: www.tidc.com
-  build.artifactId: $project.artifactId$
-  build.version: $project.version$
+  build.artifactId: microservicecloud-provider-dept-8003
+  build.version: 0.0.1-SNAPSHOT
