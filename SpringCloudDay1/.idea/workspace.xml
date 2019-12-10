@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f429620-9532-433e-bebe-2d0ffc0d8651" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-zuul-gateway-9527/microservicecloudzuulgateway9527.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-zuul-gateway-9527/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-zuul-gateway-9527/src/main/java/com/tidc/springcloud/Zuul_9527_StartSpringCloudApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-zuul-gateway-9527/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1f429620-9532-433e-bebe-2d0ffc0d8651" name="Default Changelist" comment="5、SpringCloud整合Zuul（路由网关）" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -309,7 +300,7 @@
       <workItem from="1575778667908" duration="7678000" />
       <workItem from="1575800379587" duration="6725000" />
       <workItem from="1575865810862" duration="11826000" />
-      <workItem from="1575950538387" duration="12223000" />
+      <workItem from="1575950538387" duration="12470000" />
     </task>
     <task id="LOCAL-00001" summary="SpringCloud整合Eureka(服务注册与发现)">
       <created>1575811971066</created>
@@ -353,7 +344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575960212386</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="5、SpringCloud整合Zuul（路由网关）">
+      <created>1575968601128</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575968601128</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,6 +376,7 @@
     <MESSAGE value="1、SpringCloud整合Eureka(服务注册与发现)&#10;2、SpringCloud整合Ribbon（负载均衡）" />
     <MESSAGE value="3、SpringCloud整合Feign（负载均衡）" />
     <MESSAGE value="4、SpringCloud整合Hystrix断路器（熔断、降级机制）" />
-    <option name="LAST_COMMIT_MESSAGE" value="4、SpringCloud整合Hystrix断路器（熔断、降级机制）" />
+    <MESSAGE value="5、SpringCloud整合Zuul（路由网关）" />
+    <option name="LAST_COMMIT_MESSAGE" value="5、SpringCloud整合Zuul（路由网关）" />
   </component>
 </project>
