@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f429620-9532-433e-bebe-2d0ffc0d8651" name="Default Changelist" comment="3、SpringCloud整合Feign（负载均衡）">
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/src/main/java/com/tidc/springcloud/service/DeptClientService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-feign/microservicecloudconsumerdeptfeign.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-feign/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-feign/src/main/java/com/tidc/springcloud/DeptConsumer80_Feign_App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-feign/src/main/java/com/tidc/springcloud/configbeans/ConfigBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-feign/src/main/java/com/tidc/springcloud/controller/DeptController_Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-feign/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1f429620-9532-433e-bebe-2d0ffc0d8651" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -260,7 +244,7 @@
       <workItem from="1575778667908" duration="7678000" />
       <workItem from="1575800379587" duration="6725000" />
       <workItem from="1575865810862" duration="11826000" />
-      <workItem from="1575950538387" duration="2602000" />
+      <workItem from="1575950538387" duration="2968000" />
     </task>
     <task id="LOCAL-00001" summary="SpringCloud整合Eureka(服务注册与发现)">
       <created>1575811971066</created>
@@ -276,7 +260,21 @@
       <option name="project" value="LOCAL" />
       <updated>1575884136582</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3、SpringCloud整合Feign（负载均衡）">
+      <created>1575953184163</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575953184164</updated>
+    </task>
+    <task id="LOCAL-00004" summary="3、SpringCloud整合Feign（负载均衡）">
+      <created>1575953239821</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575953239821</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
