@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f429620-9532-433e-bebe-2d0ffc0d8651" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-config-3344/microservicecloudconfig3344.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-config-3344/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-config-3344/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-zuul-gateway-9527/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-zuul-gateway-9527/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicecloud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1f429620-9532-433e-bebe-2d0ffc0d8651" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +93,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Zuul_9527_StartSpringCloudApp">
+  <component name="RunManager" selected="Spring Boot.Config_3344_StartSpringCloudApp">
+    <configuration name="Config_3344_StartSpringCloudApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="microservicecloudconfig3344" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tidc.srpingcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tidc.srpingcloud.Config_3344_StartSpringCloudApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DeptConsumer80_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="microservicecloudconsumerdept80" />
       <extension name="coverage">
@@ -284,6 +287,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Spring Boot.Config_3344_StartSpringCloudApp" />
       <item itemvalue="Spring Boot.DeptConsumer_DashBoard_App" />
       <item itemvalue="Spring Boot.Zuul_9527_StartSpringCloudApp" />
       <item itemvalue="Spring Boot.DeptConsumer80_Feign_App" />
@@ -311,7 +315,7 @@
       <workItem from="1575800379587" duration="6725000" />
       <workItem from="1575865810862" duration="11826000" />
       <workItem from="1575950538387" duration="14120000" />
-      <workItem from="1576121395677" duration="969000" />
+      <workItem from="1576121395677" duration="1254000" />
     </task>
     <task id="LOCAL-00001" summary="SpringCloud整合Eureka(服务注册与发现)">
       <created>1575811971066</created>
