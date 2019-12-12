@@ -13,12 +13,14 @@ eureka:  #eureka 集群
     instance-id: gateway-9527.com
     prefer-ip-address: true
 
+
 zuul:   #路由映射
   prefix: /tidc
   ignored-services: "*"
   routes:
     mydept.serviceId: microservicecloud-dept
     mydept.path: /mydept/**
+
 
 info:
   app.name: tidc-microcloud
